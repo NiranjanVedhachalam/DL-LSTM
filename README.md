@@ -4,6 +4,10 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
+This notebook tackles Named Entity Recognition (NER), an NLP task focused on identifying and classifying named entities within text. It employs a Bi-directional Long Short-Term Memory (Bi-LSTM) network in PyTorch to train a model. The objective is to accurately extract and categorize entities like person, location, and organization from input sentences.
+
+<img width="1300" height="796" alt="image" src="https://github.com/user-attachments/assets/097f7b38-c0e9-4a9f-aa69-2cd226c326d6" />
+
 
 
 ## DESIGN STEPS
